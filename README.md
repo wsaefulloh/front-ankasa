@@ -51,41 +51,50 @@
 </p>
 
 
-## 💻 Built with
+## Built with
 
 [![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
 [![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
 
+## Description about project
+Angkasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
 
-## 🛠️ Installation Steps
+## Installation Steps
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/Gustiana882/front-ticketing.git
-```
+   ```bash
+    https://github.com/wsaefulloh/front-ticketing
+    ```
 
 2. Install dependencies
 
-```bash
-npm install
-```
+   ```bash
+   yarn install
+   ```
 
-3. Run the app
+3. Add .env file at root folder project
 
-```bash
-npm start
-```
+   ```sh
+   REACT_APP_API = [Backend API]
+   ```
 
+4. Run the app
 
-### `Backend Ticketing Repository`
- <a href="https://github.com/Gustiana882/back-ticketing" target="blank">https://github.com/Gustiana882/back-ticketing</a>
+   ```bash
+   yarn start
+   ```
 
-```bash
-git clone https://github.com/Gustiana882/back-ticketing.git
-```
+5. You are all set!
+
+   ```bash
+   View the website at: http://localhost:3000
+   ```
+
+## Backend Repository
+Backend API : Ankasa - Backend [here](https://github.com/wsaefulloh/back-ticketing)
 
 ### Contributors
 <a href = "https://github.com/Gustiana882/front-ticketing/graphs/contributors">
