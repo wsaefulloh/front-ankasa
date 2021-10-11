@@ -2,16 +2,16 @@
   Ankasa Ticketing
 </h1>
 
-<p align="center"><a href="https://github.com/wsaefulloh/back-ticketing">
-    <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg"  alt="LogoAnkasa">
-  </a></p>
-
 <p align="center">
-    <a href="https://www.arkademy.com/" target="blank">Our Website</a>
-    ·
-    <a href="https://www.arkademy.com/auth/signup">Join With Us</a>
-    ·
+  <a href="https://www.arkademy.com/auth/signup">
+    <img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="200px"alt="Arkademylogo.svg" />
+  </a>
+  <a href="https://www.fazztrack.com/">
+    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.db4c9cc.svg" width="200px" alt="Arkademylogo.svg" />
+  </a>
 </p>
+
+
 <hr/>
 
 <table>
