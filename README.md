@@ -14,10 +14,10 @@
 <table>
   <tr>
     <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828719-fed515d9-db65-42f8-a562-a8a69fa865f8.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631845166/Ankasa%20SS/Screenshot_from_2021-09-17_09-19-10_ahq9zu.png" width="300px" alt="Arkademylogo.svg" />
     </th>
     <th>
-      <img src="https://user-images.githubusercontent.com/55304067/133918703-4bdedf54-05d1-40ce-b1e9-c5d258334bc2.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631841043/Ankasa%20SS/Screenshot_from_2021-09-17_08-10-22_p21afv.png" width="300px" alt="Arkademylogo.svg" />
     </th>
     <th>
       <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
