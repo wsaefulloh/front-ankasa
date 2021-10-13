@@ -11,41 +11,53 @@
   </a>
 </p>
 
-<table>
+<div align="center">
+    <table>
   <tr>
     <th>
-      <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631845166/Ankasa%20SS/Screenshot_from_2021-09-17_09-19-10_ahq9zu.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144317/SS%20Ankasa/0_2_v4c1yo.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Login Page</p>
     </th>
     <th>
-      <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631841043/Ankasa%20SS/Screenshot_from_2021-09-17_08-10-22_p21afv.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144319/SS%20Ankasa/0_3_shki7v.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Register Page</p>
     </th>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828735-4de67ff2-56d8-4c22-9ab3-26bd14019d9b.png" width="300px" alt="Arkademylogo.svg" />
+     <th>
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144314/SS%20Ankasa/0_1_nmbdye.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Forgot Password</p>
     </th>
   </tr>
  <tr>
     <th>
-      <img src="https://user-images.githubusercontent.com/55304067/135545396-22189df7-9823-4224-835b-e5c7ca8b1c07.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144324/SS%20Ankasa/1_imrczi.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Home Page</p>
     </th>
     <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828785-7ebe5ce7-a784-4519-8aee-9bb26d7a274c.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th> 
-      <img src="https://user-images.githubusercontent.com/55304067/134828799-123f485f-b013-4670-864e-ff508fbe3638.png" width="300px" alt="Arkademylogo.svg" />
-   </th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828834-40eb194d-1e2a-481e-addc-b20ed18a01e6.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144311/SS%20Ankasa/2_vrwqfs.png" width="300px" alt="Arkademylogo.svg" />
+       <p align="center">Result Page</p>
     </th>
     <th>
-      <img src="https://user-images.githubusercontent.com/55304067/134828846-d6e1783b-8cea-4315-893d-cff8e987fbf5.png" width="300px" alt="Arkademylogo.svg" />
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1633488136/Ankasa%20SS/Screenshot_from_2021-10-05_20-37-57_bcczuf.png" width="300px" alt="Arkademylogo.svg" />
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144320/SS%20Ankasa/3_fwp2oj.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Input Form Booking</p>
     </th>
   </tr>
+       <tr>
+    <th>
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144327/SS%20Ankasa/4_dpislj.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">My Booking Page</p>
+    </th>
+    <th>
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144319/SS%20Ankasa/5_smyxru.png" width="300px" alt="Arkademylogo.svg" />
+       <p align="center">Notification</p>
+    </th>
+    <th>
+      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1634144322/SS%20Ankasa/6_kr2fxt.png" width="300px" alt="Arkademylogo.svg" />
+        <p align="center">Chat</p>
+    </th>
+  </tr>
+  
 </table>
+  </div>
 
 <p align="center">
     <a href="https://ankasa.online" target="blank">View Demo</a>
