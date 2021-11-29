@@ -7,7 +7,7 @@
     <img src="https://www.arkademy.com/img/logo%20arkademy.1c82cf5c.svg" width="200px"alt="Arkademylogo.svg" />
   </a>
   <a href="https://www.fazztrack.com/">
-    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.db4c9cc.svg" width="200px" alt="Fazztracklogo.svg" />
+    <img src="https://www.fazztrack.com/_nuxt/img/fazztrack-logo-color.cba88b7.svg" width="200px" alt="Fazztracklogo.svg" />
   </a>
 </p>
 
